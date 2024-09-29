@@ -1,2 +1,2 @@
-# Student_Performance_Analysis_Project
-It's a project that aims to capture the relationship between various factors and some high school students' academic results using d3.js to create a dashboard.
+# Student Performance Analysis Project : Project Overview
+It's a project that aims to capture the relationship between various factors (health and family Impact) and high school students' academic results. By utilizing d3.js as a data visualization tool, you can extract patterns from our data with an interactive web-based dashboard and as result you can help these students improve their final grades.
